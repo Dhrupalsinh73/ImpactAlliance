@@ -1,4 +1,5 @@
-I done complate frontend work and some backend this is not a full stake project
+-> I have complated frontend work and some backend.
+-> this is not a full stake project.
 
 **Run this steps in terminal**
 
